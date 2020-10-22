@@ -3,4 +3,4 @@ title: "Pandas and Bamboo"
 date: "2020-10-22"
 ---
 
-Pandas eat Bamboo too!
+Pandas eat Bamboo too! Actually, they only eat bamboo.
